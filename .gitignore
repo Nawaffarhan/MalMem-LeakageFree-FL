@@ -1,0 +1,17 @@
+# dataset (not redistributed, download from the official source)
+data/
+*.raw
+Obfuscated-MalMem2022.csv
+*.zip
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.synctex.gz
+*.toc

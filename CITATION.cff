@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the paper."
+title: "Leakage-Free Evaluation of Federated and Privacy-Preserving Deep Learning for Memory-Based Malware Family Attribution and Unseen-Family Recognition"
+authors:
+  - family-names: Abuowaida
+    given-names: Suhaila
+    affiliation: "Al al-Bayt University, Jordan"
+type: software
+license: MIT
+date-released: 2026-10-11
+keywords: [malware detection, memory forensics, CIC-MalMem-2022, data leakage, federated learning, differential privacy, open-set recognition]
